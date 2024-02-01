@@ -55,7 +55,7 @@ namespace :test do
     gemfiles.each do |gemfile|
       puts "GEMFILE: #{gemfile}"
       sh "BUNDLE_GEMFILE='#{File.expand_path("../gemfiles/#{gemfile}", __FILE__)}' " +
-             " bundle exec rspec -b"
+             " bundle exec rspec"
       puts '-' * 80
     end
   end
