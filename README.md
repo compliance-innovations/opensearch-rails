@@ -1,9 +1,7 @@
 # OpenSearch
 
+[![Ruby 3.2](https://github.com/compliance-innovations/opensearch-rails/actions/workflows/3.2.yml/badge.svg)](https://github.com/compliance-innovations/opensearch-rails/actions/workflows/3.2.yml)
 [![Ruby 2.7](https://github.com/compliance-innovations/opensearch-rails/workflows/Ruby%202.7/badge.svg)](https://github.com/compliance-innovations/opensearch-rails/actions)
-[![Ruby 2.6](https://github.com/compliance-innovations/opensearch-rails/workflows/Ruby%202.6/badge.svg)](https://github.com/compliance-innovations/opensearch-rails/actions)
-[![Ruby 2.5](https://github.com/compliance-innovations/opensearch-rails/workflows/Ruby%202.5/badge.svg)](https://github.com/compliance-innovations/opensearch-rails/actions)
-[![Ruby 2.4](https://github.com/compliance-innovations/opensearch-rails/workflows/Ruby%202.4/badge.svg)](https://github.com/compliance-innovations/opensearch-rails/actions)
 [![JRuby](https://github.com/compliance-innovations/opensearch-rails/workflows/JRuby/badge.svg)](https://github.com/compliance-innovations/opensearch-rails/actions)
 
 This repository contains various Ruby and Rails integrations for [OpenSearch](https://opensearch.org/). This is a fork
@@ -168,9 +166,9 @@ This software is licensed under the Apache 2 license, quoted below.
     the Apache License, Version 2.0 (the "License"); you may
     not use this file except in compliance with the License.
     You may obtain a copy of the License at
-    
+
     	http://www.apache.org/licenses/LICENSE-2.0
-    
+
     Unless required by applicable law or agreed to in writing,
     software distributed under the License is distributed on an
     "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
