@@ -90,7 +90,7 @@ You can generate a simple Ruby on Rails application with a single command
     --env "cluster.name=opensearch-rails" \
     --env "cluster.routing.allocation.disk.threshold_enabled=false" \
     --rm \
-    opensearchproject/opensearch:1.3.0
+    opensearchproject/opensearch:latest
 ```
 
 Once OpenSearch is running, you can generate the simple app with this command:
