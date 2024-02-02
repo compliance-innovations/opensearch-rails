@@ -38,12 +38,12 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files  = [ "README.md", "LICENSE.txt" ]
   s.rdoc_options      = [ "--charset=UTF-8" ]
 
-  s.required_ruby_version = ">= 2.5"
+  s.required_ruby_version = ">= 2.4"
 
   s.add_dependency "opensearch-ruby", '>= 2.0'
   s.add_dependency "opensearch-model"
-  s.add_dependency "activesupport",       '>= 6.1'
-  s.add_dependency "activemodel",         '>= 6.1'
+  s.add_dependency "activesupport",       '> 4'
+  s.add_dependency "activemodel",         '> 4'
   s.add_dependency "hashie"
 
   s.add_development_dependency "bundler"

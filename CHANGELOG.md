@@ -1,8 +1,9 @@
 ## 1.1.0
+
+No functional changes.
+
 - Ruby 3.2 support
-- Remove support for unsupported Ruby & Rails versions:
-  - Rails >= 6.1
-  - Ruby >= 2.7
+- Remove CI / CD support for unsupported Ruby & Rails versions
 - Ensure compatibility with opensearch-ruby 3
 
 ## 1.0.0

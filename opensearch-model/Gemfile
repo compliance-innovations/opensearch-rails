@@ -23,5 +23,4 @@ gemspec
 group :development, :testing do
   gem 'pry-nav'
   gem 'rspec'
-  gem 'byebug'
 end
